@@ -10,26 +10,21 @@
 
 ---
 
-# 🚀 About Me
+## 👋 About Me
 
-🎓 Third-Year Information Technology Engineering Student
+I'm an aspiring Software Engineer with a strong interest in developing scalable software systems, intelligent applications, and data-driven solutions.
 
-💡 Passionate about solving real-world problems using software.
+My passion lies in transforming ideas into reliable products by combining software engineering principles with modern technologies. I continuously expand my knowledge through real-world projects, open-source contributions, and exploring advancements in AI, cloud computing, and backend development.
 
-🌱 Currently improving my skills in
+---
 
-- Data Structures & Algorithms
-- Full Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Computer Science Fundamentals
-- Open Source Development
+## 🎯 Current Focus
 
-🎯 **Current Goal**
-
-- Crack an SDE Internship
-- Build impactful real-world projects
-- Contribute to Open Source
-- Become a better problem solver every day
+- AI & Machine Learning
+- Full Stack Development
+- Backend Engineering
+- Open Source Collaboration
+- Continuous Learning
 
 ---
 
