@@ -117,6 +117,19 @@
 ---
 
 
+## 🚀 Open Source Contributions
+
+Actively contributing to open-source projects by collaborating with developers across different repositories.
+
+### My Contributions
+
+- ✨ Feature Development
+- 🐞 Bug Fixes
+- ♻️ Code Refactoring
+- 📝 Documentation Enhancements
+- 🔍 Issue Analysis and Resolution
+
+---
 
 # 🚀 Featured Projects
 
