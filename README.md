@@ -4,7 +4,7 @@
 
 ### 💻 Information Technology Student | AI & Full Stack Developer | Open Source Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Developer+in+the+Making;AI+%7C+Web+Development+%7C+Open+Source;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Matter+🚀" />
 
 </div>
 
