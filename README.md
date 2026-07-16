@@ -158,15 +158,6 @@ Android • Firebase • Google Maps API
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-Shubham14&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph (last 30days)
 
