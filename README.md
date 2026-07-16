@@ -158,6 +158,14 @@ Android • Firebase • Google Maps API
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Git-Shubham14&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 
 ## 📈 Contribution Graph (last 30days)
 
