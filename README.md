@@ -211,11 +211,11 @@ Android • Firebase • Google Maps API
 
 <p align="left">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/Leet_shubh07">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+<a href="https://www.geeksforgeeks.org/user/shubham60wa/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
