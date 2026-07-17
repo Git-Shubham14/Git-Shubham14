@@ -235,7 +235,7 @@ Android • Firebase • Google Maps API
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/shubham-satpute-2662a52a8">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
